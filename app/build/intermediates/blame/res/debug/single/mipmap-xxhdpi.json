@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ashish/Music/BloodDonation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/ashish/Music/BloodDonation/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ashish/Music/BloodDonation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/main.png",
+        "source": "/home/ashish/Music/BloodDonation/app/src/main/res/mipmap-xxhdpi/main.png"
+    }
+]
